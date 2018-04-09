@@ -16,9 +16,9 @@ Process
 --------------------
 Part 1 involved exploring the dataset for meaningful patterns using statitical analysis, graphical, and numeric summeries.
 
-Link to Part 1 Notebook: https://github.com/BethHilbert/Python-Expedia/blob/master/Expedia%20Data%20Exploration%20(part%201).ipynb
+Link to Part 1 Notebook: https://github.com/BethHilbert/Python-Expedia/blob/master/Expedia%20(part%201)%20Data%20Exploration.ipynb
 
 Part 2 involved models for Regression, Clustering, and Classification Algorithms. The code is designed to easily manipulate the variables in order to experiement with different inputs (such as assigning a different target or number of clusters).
 
 
-Link to Part 2 Notebook: https://github.com/BethHilbert/Python-Expedia/blob/master/Expedia%20Data%20Analytics%20(part%202).ipynb
+Link to Part 2 Notebook: https://github.com/BethHilbert/Python-Expedia/blob/master/Expedias%20(part%202)%20Data%20Analytic%Models.ipynb
