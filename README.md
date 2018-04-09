@@ -18,6 +18,7 @@ Part 1 involved exploring the dataset for meaninful patterns using statitical an
 
 Link to Part 1 Notebook: http://localhost:8888/notebooks/GitHub/python-expedia/Expedia%20Data%20Exploration%20(part%201).ipynb
 
-Part 2 involved models for Regression, Clustering, and Classification Algorithms. The code is set up to easily manipulate the variables in order to experiement with different inputs (such as assigning a different target or number of clusters).
+Part 2 involved models for Regression, Clustering, and Classification Algorithms. The code is designed to easily manipulate the variables in order to experiement with different inputs (such as assigning a different target or number of clusters).
+
 
 Link to Part 2 Notebook: http://localhost:8888/notebooks/GitHub/python-expedia/Expedia%20Data%20Analytics%20(part%202).ipynb
