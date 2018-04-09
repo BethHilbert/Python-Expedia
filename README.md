@@ -14,7 +14,7 @@ Dataset is available from Kaggle: https://www.kaggle.com/c/expedia-hotel-recomme
 
 Process
 --------------------
-Part 1 involved exploring the dataset for meaninful patterns using statitical analysis, graphical, and numeric summeries.
+Part 1 involved exploring the dataset for meaningful patterns using statitical analysis, graphical, and numeric summeries.
 
 Link to Part 1 Notebook: https://github.com/BethHilbert/Python-Expedia/blob/master/Expedia%20Data%20Exploration%20(part%201).ipynb
 
